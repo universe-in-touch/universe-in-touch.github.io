@@ -12,7 +12,7 @@ address = "rdYLqmL2paFvDL2ERw6VHuSuken5uQyrK"
 name = "Universe In Touch"
 avatar = "ipfs://bafybeigm7ts6ibkg3thwh2xp67hsbsg63gx2p2nw5uz43sq47xfa6krznu"
 
-[[TOKENS]]
+[[CURRENCIES]]
 issuer = "rdYLqmL2paFvDL2ERw6VHuSuken5uQyrK"
 currency = "4241424100000000000000000000000000000000"
 name = "BABA"
@@ -20,11 +20,11 @@ desc = "A bridge between spiritual values and the decentralized world."
 icon = "ipfs://bafybeigm7ts6ibkg3thwh2xp67hsbsg63gx2p2nw5uz43sq47xfa6krznu"
 asset_class = "cryptocurrency"
 
-[[TOKENS.WEBLINKS]]
+[[CURRENCIES.WEBLINKS]]
 url = "https://universe-in-touch.github.io"
 type = "website"
 title = "Project website"
 
-[[TOKENS.WEBLINKS]]
+[[CURRENCIES.WEBLINKS]]
 url = "https://x.com/BabaCoinXRP?t=stIdQYSN3FSBFEiDT054DQ&s=09"
 type = "socialmedia"
