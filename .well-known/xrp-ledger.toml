@@ -14,10 +14,12 @@ name = "Universe In Touch"
 avatar = "ipfs://bafybeigm7ts6ibkg3thwh2xp67hsbsg63gx2p2nw5uz43sq47xfa6krznu"
 
 [[CURRENCIES]]
+code = "4241424100000000000000000000000000000000"
+display_decimals = 2
 issuer = "rdYLqmL2paFvDL2ERw6VHuSuken5uQyrK"
 network = "main"
-code = "4241424100000000000000000000000000000000"
 name = "BABAcoin"
+symbol = "U+0180"
 desc = "A bridge between spiritual values and the decentralized world."
 icon = "ipfs://bafybeigm7ts6ibkg3thwh2xp67hsbsg63gx2p2nw5uz43sq47xfa6krznu"
 asset_class = "cryptocurrency"
