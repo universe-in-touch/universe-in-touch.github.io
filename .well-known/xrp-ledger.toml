@@ -2,7 +2,7 @@
 address = "rdYLqmL2paFvDL2ERw6VHuSuken5uQyrK"
 network = "main"
 name = "Universe In Touch"
-avatar = "https://universe-in-touch.github.io/1.png"
+icon = "https://universe-in-touch.github.io/1.png"
 
 [[PRINCIPALS]]
 name = "Nikita Plotnikov"
@@ -13,7 +13,7 @@ address = "rdYLqmL2paFvDL2ERw6VHuSuken5uQyrK"
 kyc = true
 trust_level = 3
 name = "Universe In Touch"
-avatar = "https://universe-in-touch.github.io/1.png"
+icon = "https://universe-in-touch.github.io/1.png"
 
 [[CURRENCIES]]
 code = "4241424100000000000000000000000000000000"
@@ -34,3 +34,5 @@ title = "Project website"
 [[CURRENCIES.WEBLINKS]]
 url = "https://x.com/BabaCoinXRP?t=stIdQYSN3FSBFEiDT054DQ&s=09"
 type = "socialmedia"
+title = "Twitter"
+
