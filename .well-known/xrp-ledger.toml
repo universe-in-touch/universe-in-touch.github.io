@@ -1,17 +1,23 @@
 [[ACCOUNTS]]
 address = "rdYLqmL2paFvDL2ERw6VHuSuken5uQyrK"
 name = "Universe In Touch"
+avatar = "ipfs://bafybeigm7ts6ibkg3thwh2xp67hsbsg63gx2p2nw5uz43sq47xfa6krznu"
+
+[[PRINCIPALS]]
+name = "Nikita Plotnikov" # Primary spec author
+email = "universeintouch@gmail.com" # my real email address
 
 [[ISSUERS]]
 address = "rdYLqmL2paFvDL2ERw6VHuSuken5uQyrK"
 name = "Universe In Touch"
+avatar = "ipfs://bafybeigm7ts6ibkg3thwh2xp67hsbsg63gx2p2nw5uz43sq47xfa6krznu"
 
 [[TOKENS]]
 issuer = "rdYLqmL2paFvDL2ERw6VHuSuken5uQyrK"
-currency = "BABA"
-name = "BABAcoin"
+currency = "4241424100000000000000000000000000000000"
+name = "BABA"
 desc = "A bridge between spiritual values and the decentralized world."
-icon = "https://ipfs.io/ipfs/bafybeigm7ts6ibkg3thwh2xp67hsbsg63gx2p2nw5uz43sq47xfa6krznu"
+icon = "ipfs://bafybeigm7ts6ibkg3thwh2xp67hsbsg63gx2p2nw5uz43sq47xfa6krznu"
 asset_class = "cryptocurrency"
 
 [[TOKENS.WEBLINKS]]
