@@ -1,0 +1,24 @@
+[[ACCOUNTS]]
+address = "rdYLqmL2paFvDL2ERw6VHuSuken5uQyrK"
+name = "Universe In Touch"
+
+[[ISSUERS]]
+address = "rdYLqmL2paFvDL2ERw6VHuSuken5uQyrK"
+name = "BABAcoin"
+
+[[TOKENS]]
+issuer = "rdYLqmL2paFvDL2ERw6VHuSuken5uQyrK"
+currency = "BABA"
+name = "BABAcoin"
+desc = "A bridge between spiritual values and the decentralized world."
+icon = "https://ipfs.io/ipfs/bafybeigm7ts6ibkg3thwh2xp67hsbsg63gx2p2nw5uz43sq47xfa6krznu"
+asset_class = "cryptocurrency"
+
+[[TOKENS.WEBLINKS]]
+url = "https://universe-in-touch.github.io"
+type = "website"
+title = "Project website"
+
+[[TOKENS.WEBLINKS]]
+url = "https://x.com/BabaCoinXRP?t=stIdQYSN3FSBFEiDT054DQ&s=09"
+type = "socialmedia"
