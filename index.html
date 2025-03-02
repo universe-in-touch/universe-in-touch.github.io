@@ -1,18 +1,35 @@
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Купить токен BABA</title>
-    <link rel="stylesheet" href="css/style.css">
-</head>
-<body>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>UIT Platform</title>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/cookieconsent@3.1.0/build/cookieconsent.min.js"></script>
+      <script>
+          window.addEventListener("load", function() {
+              window.cookieconsent.initialise({
+                  "palette": {
+                      "popup": {
+                          "background": "#000"
+                      },
+                      "button": {
+                          "background": "#f1d600"
+                      }
+                  },
+                  "theme": "classic",
+                  "content": {
+                      "message": "Cookies are required for the proper functioning of the web3 experience on our site.",
+                      "dismiss": "Accept"
+                  }
+              });
+          });
+      </script>
 
-    <h1>Токен BABA</h1>
-    <p>Добавьте TrustLine и купите токен прямо здесь!</p>
-
-    <a href="trustline.html">Добавить TrustLine</a>
-    <a href="buy.html">Купить токен</a>
-
-</body>
+    <script type="module" crossorigin src="/assets/index-FGticuDY.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-CTINlany.css">
+  </head>
+  <body>
+    <div id="app"></div>
+  </body>
 </html>
